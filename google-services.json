@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917014795372",
+    "project_id": "vusport-15d4a",
+    "storage_bucket": "vusport-15d4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917014795372:android:03c09073101d406fbbb449",
+        "android_client_info": {
+          "package_name": "com.vusport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHqKBVctYSb4rF1sR2CftSCZJwOqfvJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

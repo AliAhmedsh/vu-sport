@@ -1,0 +1,14 @@
+# Firebase secrets
+
+
+# Environment files
+.env
+.env.*
+
+# OS and editor noise
+node_modules/
+.expo/
+dist/
+build/
+.DS_Store
+*.log
